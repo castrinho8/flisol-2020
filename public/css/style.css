@@ -88,7 +88,7 @@ body {
   line-height: 0.9em;
   letter-spacing: -0.03em;
   text-transform: none;
-  text-shadow: 0px 0px 1px #eeeeee; }
+  text-shadow: none; }
 
 .reveal h1 {
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
@@ -110,7 +110,7 @@ body {
 .reveal h4 em,
 .reveal h5 em,
 .reveal h6 em {
-  text-shadow: 0px 0px 1px #e38037;
+  text-shadow: none;
 }
 
 
